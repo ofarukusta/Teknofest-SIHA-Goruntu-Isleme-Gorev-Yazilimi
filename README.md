@@ -7,7 +7,7 @@ Repo'da aktarılmış olan bu kodlar Teknofest 2023 Savaşan İHA Yarışmacıs�
 
 Aşağıdaki Komut ile kodu çalıştırabilirsiniz
 ```
-Python 3 vega_gi_full.py 
+python3 vega_gi_full.py 
 ```
 İstenildiği takdirde Best.pt dosyası Last.pt dosyası ile kod içerisinde değiştirilebilir.
 
